@@ -14,8 +14,8 @@
 
 В процессе тестирования использовались следующие артефакты:
 
-- Отчёт о тестировании
-- Баг репорт
+- [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md "Руководство по установке IntelliJ IDEA")
+- [Валидные ключи с сайта freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html "валидные ключи с сайта freeformatter.com")
 
 В качестве тестовых данных использовались данные из [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md "Руководство по установке IntelliJ IDEA") и валидные ключи с сайта [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html "freeformatter.com")
 
