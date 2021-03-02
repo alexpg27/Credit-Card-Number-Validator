@@ -20,6 +20,7 @@
 В качестве тестовых данных использовались данные из [Руководство по установке IntelliJ IDEA](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md "Руководство по установке IntelliJ IDEA") и валидные ключи с сайта [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html "freeformatter.com")
 
 **Ожидаемый результат:**
+
 VISA:
 
 4485359742684893 - Result is OK
@@ -44,6 +45,21 @@ Diners Club - International:
 
 36929294643935 - Result is OK
 
+American Express (AMEX):
+
+377805614421573 - Result is OK
+
+349100760382406 - Result is OK
+
+345896196854645 - Result is OK
+
+МИР: 
+
+2201382000000013 - Result is OK
+
+2200770212727079 - Result is OK
+
+2202200273752202 - Result is OK
 
 Тестирование производилось в следующем окружении:
 
